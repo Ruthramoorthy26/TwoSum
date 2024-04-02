@@ -26,7 +26,7 @@ public class TwoSum_LeetCode_1 {
 		nums[1] = 7;
 		nums[2] = 11;
 		nums[3] = 15;
-		 
+		 	
 		int target = 26;
 		
 		System.out.print(target+" is The sum of two Indices of ["+nums[0]+","+nums[1]+","+nums[2]+","+ nums[3]+"]:" );
@@ -38,7 +38,10 @@ public class TwoSum_LeetCode_1 {
 //	    }
 //	    System.out.println("]");
 //		system.out.println("This line added after push a file in github repository for testing for git pull works")
+
 //              system.out.println("This line added from remote repository for testing conflict")		
+
+//              system.out.println("This line for testing conflict..it's added from local directory")
 	}
 	
 
